@@ -12,7 +12,7 @@ CORS(app)
 
 # Load model and preprocessing tools
 MODEL_URL = "https://huggingface.co/sanchitpahurkar/HomeScope/resolve/main/housing_india_model.pkl"
-MODEL_PATH = "backend/housing_india_model.pkl"
+MODEL_PATH = "housing_india_model.pkl"
 
 # Download the model if not already present
 if not os.path.exists(MODEL_PATH):
