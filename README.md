@@ -1,4 +1,4 @@
-# **House Price Prediction App**
+# **HomeScope - House Price Prediction App**
 
 This project is a full-stack application designed to predict house prices based on various features such as location, size, and other parameters. The frontend is built with Vite and Tailwind CSS, while the backend is developed using Flask and serves a machine learning model for predicting house prices.
 
